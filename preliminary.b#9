@@ -158,10 +158,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="12.446" y1="15.802" x2="91.674" y2="15.602" width="0" layer="20"/>
-<wire x1="91.674" y1="15.602" x2="91.928" y2="93.08" width="0" layer="20"/>
-<wire x1="91.928" y1="93.08" x2="12.5" y2="93.08" width="0" layer="20"/>
-<wire x1="12.5" y1="93.08" x2="12.446" y2="15.802" width="0" layer="20"/>
+<wire x1="12.446" y1="16.002" x2="91.674" y2="16.002" width="0" layer="20"/>
+<wire x1="91.674" y1="16.002" x2="91.928" y2="92.38" width="0" layer="20"/>
+<wire x1="91.928" y1="92.38" x2="12.7" y2="92.38" width="0" layer="20"/>
+<wire x1="12.7" y1="92.38" x2="12.446" y2="16.002" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
@@ -1980,12 +1980,6 @@ design rules under a new name.</description>
 <wire x1="72.5424" y1="32.3224" x2="72.5424" y2="36.3542375" width="0.1524" layer="1"/>
 <wire x1="72.5424" y1="36.3542375" x2="73.7322" y2="37.5440375" width="0.1524" layer="1"/>
 <wire x1="73.04" y1="38.12" x2="73.7322" y2="38.12" width="0.1524" layer="1"/>
-<polygon width="0.1524" layer="1" isolate="0.3048">
-<vertex x="12.5" y="93.1"/>
-<vertex x="12.5" y="15.8"/>
-<vertex x="91.7" y="15.6"/>
-<vertex x="91.9" y="93.1"/>
-</polygon>
 </signal>
 <signal name="VREF+">
 <contactref element="R3" pad="2"/>
